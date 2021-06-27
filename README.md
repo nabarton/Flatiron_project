@@ -6,7 +6,7 @@ This project aims to find some patterns in global UFO sightings over the past ce
 
 ## Prerequisites
 
-- **No configuration.** Just download and run, or fork.  
+- **No configuration.** Just download and run... or fork, your choice :)  
 
 ## Build Status
 
