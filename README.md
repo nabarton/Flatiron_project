@@ -1,18 +1,6 @@
 # UFO Sightings
 
-**Name** = UFO Sightings
-
-**Version** = 0.0.1
-
-**Author** = Neal Barton
-
-**Classifiers** =
-
-    Programming Language :: Python :: 3
-    License :: Creative Commons Legal Code :: CC0 1.0 Universal
-    Operating System :: OS Independent
-
-**Description** = 
+**Description**
 
 This project aims to find some patterns in global UFO sightings over the past century, 
 taking the kaggle UFO data set found in the following repository: 
