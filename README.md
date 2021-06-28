@@ -1,15 +1,20 @@
 # UFO Sightings
 
 **Name** = UFO Sightings
+
 **Version** = 0.0.1
+
 **Author** = Neal Barton
+
 **Author_email** = neal.barton@hotmail.co.uk
+
 **URL** = https://github.com/nabarton/Flatiron_project
+
 **Classifiers** =
 
-    **Programming Language** :: Python :: 3
-    **License** :: Creative Commons Legal Code :: CC0 1.0 Universal
-    **Operating System** :: OS Independent
+    Programming Language :: Python :: 3
+    License :: Creative Commons Legal Code :: CC0 1.0 Universal
+    Operating System :: OS Independent
 
 **Description** = 
 
