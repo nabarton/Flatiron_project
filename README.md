@@ -1,5 +1,18 @@
 # UFO Sightings
 
+**Name** = UFO Sightings
+**Version** = 0.0.1
+**Author** = Neal Barton
+**Author_email** = neal.barton@hotmail.co.uk
+**URL** = https://github.com/nabarton/Flatiron_project
+**Classifiers** =
+
+    **Programming Language** :: Python :: 3
+    **License** :: Creative Commons Legal Code :: CC0 1.0 Universal
+    **Operating System** :: OS Independent
+
+**Description** = 
+
 This project aims to find some patterns in global UFO sightings over the past century, 
 taking the kaggle UFO data set found in the following repository: 
 
@@ -12,7 +25,7 @@ I have not got the time to sort all of the many issues found in the original dat
 ## Code
 
 
-This code is written in python standard format, with some javascript at the start. 
+This code is written in python standard format, with some javascript at the start to remove scrollable windows.  
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -20,13 +33,13 @@ This code is written in python standard format, with some javascript at the star
 ## Prerequisites
 
 
-- **No configuration.** Just download and run... or fork, your choice :)  
+- **No configuration.** Just download and run... or fork, your choice :smile:  
 
 
 ## Build Status
 
 
-Not yet complete. 
+Working progress...
 
 
 ## Getting Started
@@ -34,7 +47,7 @@ Not yet complete.
 
 All necessary packages have been documented in the notebook, these include: 
 
-	- pandas
-	- matplotlib
-	- seaborn
+	* pandas
+	* matplotlib
+	* seaborn
 
