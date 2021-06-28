@@ -6,10 +6,6 @@
 
 **Author** = Neal Barton
 
-**Author_email** = neal.barton@hotmail.co.uk
-
-**URL** = https://github.com/nabarton/Flatiron_project
-
 **Classifiers** =
 
     Programming Language :: Python :: 3
