@@ -1,6 +1,6 @@
 # UFO Sightings
 
-**Description**
+## Description
 
 This project aims to find some patterns in global UFO sightings over the past century, 
 taking the kaggle UFO data set found in the following repository: 
