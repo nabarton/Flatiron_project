@@ -30,7 +30,24 @@ I have not got the time to sort all of the many issues found in the original dat
 ## Code
 
 
-This code is written in python standard format, with some javascript at the start to remove scrollable windows.  
+This code is written in python, with some javascript to remove scrollable windows.  
+
+https://img.shields.io/endpoint?url=...&style=...
+{
+  "schemaVersion": 1,
+  "label": "python",
+  "message": "standard",
+  "color": "brightgreen"
+}
+
+https://img.shields.io/endpoint?url=...&style=...
+{
+  "schemaVersion": 1,
+  "label": "javascript",
+  "message": "standard",
+  "color": "brightgreen"
+}
+
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
